@@ -108,9 +108,5 @@ Key findings:
 - Incorporate modern and multilingual poetic corpora
 - Examine ethical and interpretability concerns in AI poetry classification
 - Explore other architectures (e.g., LLaMA2, GPT-NeoX)
-
-
 -  [Model & t-SNE Visuals](https://kang88kang88.wixsite.com/dh205kjy/enbedding)
 -  [Zero-shot Analysis](https://kang88kang88.wixsite.com/dh205kjy/zreoshot)
-output_path.write_text(readme_content.strip(), encoding="utf-8")
-output_path.name
