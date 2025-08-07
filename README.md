@@ -1,7 +1,8 @@
 # Full Project Links
 
 -  [Full Report Website](https://kang88kang88.wixsite.com/dh205kjy)
-  
+-  Below is a summary of the project. The full project details can be found at the link above.
+
 # Project Title:  
 **Distinguishing Human vs. LLM-Generated Shakespearean Sonnets**
 
