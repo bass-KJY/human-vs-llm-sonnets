@@ -1,3 +1,7 @@
+# Full Project Links
+
+-  [Full Report Website](https://kang88kang88.wixsite.com/dh205kjy)
+  
 # Project Title:  
 **Distinguishing Human vs. LLM-Generated Shakespearean Sonnets**
 
@@ -104,10 +108,7 @@ Key findings:
 - Examine ethical and interpretability concerns in AI poetry classification
 - Explore other architectures (e.g., LLaMA2, GPT-NeoX)
 
-## 🔗 Useful Links
 
--  [Full Report Website](https://kang88kang88.wixsite.com/dh205kjy)
--  [Processing Code](https://kang88kang88.wixsite.com/dh205kjy/processing-code)
 -  [Model & t-SNE Visuals](https://kang88kang88.wixsite.com/dh205kjy/enbedding)
 -  [Zero-shot Analysis](https://kang88kang88.wixsite.com/dh205kjy/zreoshot)
 output_path.write_text(readme_content.strip(), encoding="utf-8")
